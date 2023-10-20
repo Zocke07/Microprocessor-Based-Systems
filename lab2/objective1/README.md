@@ -4,6 +4,5 @@
 3. 禁用IF和SWITCH語法，請以加法器(邏輯閘)方式實現，使用其他方式則酌以扣分。
 
 ## 指定腳位  
-下表僅為範例  
-可自行選擇腳位 　
+下表僅為範例, 可自行選擇腳位 　
 ![Screenshot 2023-10-20 144904](https://github.com/Zocke07/Microprocessor-Based-Systems/assets/91361456/3f573980-43b0-44b3-918e-207dfe8ed5be)　　
