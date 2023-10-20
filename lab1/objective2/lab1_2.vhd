@@ -1,10 +1,10 @@
-entity lab1 is
+entity lab1_2 is
 port (
 		 W,X,Y,Z,W1,X1,Y1,Z1,W2,X2,Y2,Z2 	: in BIT;
 		 a,b,c,d,e,f,g,a1,b1,c1,d1,e1,f1,g1,a2,b2,c2,d2,e2,f2,g2	: out BIT);
-end lab1;
+end lab1_2;
 
-architecture func of lab1 is
+architecture func of lab1_2 is
 begin
 	a <= (X and not Y and not Z) or (W and X and not Y) or (not W and not X and not Y and Z) or (W and not X and Y and Z);
 	b <= (X and Y and not Z) or (W and Y and Z) or (W and X and not Z) or (not W and X and not Y and Z);
