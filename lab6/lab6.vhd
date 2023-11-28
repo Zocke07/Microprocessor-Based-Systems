@@ -56,5 +56,5 @@ BEGIN
 	END IF ;
 	END PROCESS ;
 	output <= y_present;
-END logicFUnc;
+END logicFunc;
 		
