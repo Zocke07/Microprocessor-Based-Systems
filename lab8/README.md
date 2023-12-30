@@ -1,4 +1,4 @@
-![image](https://github.com/Zocke07/Microprocessor-Based-Systems/assets/91361456/695b32bc-24e4-433d-870b-8cae7c3a0155)# 實驗八:簡易CPU實作
+# 實驗八:簡易CPU實作
 
 ## 基本項目
 
